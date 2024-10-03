@@ -130,12 +130,16 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/b666eac5-12a9-4290-b703-6b94c3a5b13c)
 
 ![image](https://github.com/user-attachments/assets/cc2b3127-9f28-4754-b06f-27e5c00af13c)
+
 ![image](https://github.com/user-attachments/assets/b0b8dfd9-2f9e-409d-bfb3-b79c5e0a0895)
 
 ## FOR DARK IMAGE
 ![image](https://github.com/user-attachments/assets/30826378-8534-4399-819a-9e18e7263c4e)
+
 ![image](https://github.com/user-attachments/assets/7160a7f0-2f30-478f-8ad0-9ef37e93ff3e)
+
 ![image](https://github.com/user-attachments/assets/fe98cc72-cff5-491e-a93b-dda937e5728a)
+
 ![image](https://github.com/user-attachments/assets/85a0055c-2ae7-4aea-bf33-ba9cf127a7c6)
 
 
